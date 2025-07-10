@@ -1,5 +1,11 @@
 # Awesome-Chinese-Word-Segmentation-Tools
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+![GitHub License](https://badgen.net/github/license/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+![forks](https://badgen.net/github/forks/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+![issues](https://badgen.net/github/issues/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+![last commit](https://badgen.net/github/last-commit/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+
 中文分词（Chinese Word Segmentation,CWS）是自然语言处理（NLP）的基础任务之一，其效果直接影响文本分析、情感分析、机器学习等下游任务的质量。本项目对 13 种主流中文分词工具 进行总结并简单测评，涵盖通用工具与垂域能力，旨在为开发者提供选型参考。
 
 > 环境：Python 3.10.18
