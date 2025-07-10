@@ -1,7 +1,7 @@
 # Awesome-Chinese-Word-Segmentation-Tools
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/liu673/Awesome-Chinese-Word-Segmentation-Tools)
-![GitHub License](https://badgen.net/github/license/liu673/Awesome-Chinese-Word-Segmentation-Tools)
+![License](https://badgen.net/github/license/liu673/Awesome-Chinese-Word-Segmentation-Tools)
 ![forks](https://badgen.net/github/forks/liu673/Awesome-Chinese-Word-Segmentation-Tools)
 ![issues](https://badgen.net/github/issues/liu673/Awesome-Chinese-Word-Segmentation-Tools)
 ![last commit](https://badgen.net/github/last-commit/liu673/Awesome-Chinese-Word-Segmentation-Tools)
